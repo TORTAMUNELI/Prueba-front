@@ -1,0 +1,19 @@
+.cards {
+  padding: 2rem;
+  border: 1px solid black;
+  align-items: center;
+  border-radius: 2rem;
+}
+.second-part {
+  margin: 2rem;
+}
+
+.inputs {
+  height: 2.5rem;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  background-size: cover;
+}
